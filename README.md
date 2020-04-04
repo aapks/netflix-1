@@ -13,3 +13,5 @@ Netflix app by React Native built by `redux`, `recompose` and `redux-observable`
 <image src=screenshots/android-home.png style="display: inline; float: left; margin: 20px;" width="300"/>
 <image src=screenshots/android-details.png style="display: inline; float: left; margin: 20px;" width="300"/>
 <p>
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
